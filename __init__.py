@@ -1,0 +1,1 @@
+from moorse import Moorse
