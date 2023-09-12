@@ -6,6 +6,7 @@ __pycache__/
 /env/
 /responses/
 /moorse/.git/
+/moorse/
 
 testes_webhooks.py
 testes_billing.py

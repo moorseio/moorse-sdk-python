@@ -4,7 +4,7 @@ setup(
   packages = ['moorse'],   # Chose the same as "name"
   version = '0.0.1',      # Start with a small number and increase it with every change you make
   license = 'MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
-  description = 'A sdk that allows Moorse customers to write some simplified calls to the Moorse resources.',   # Give a short description about your library
+  description='A sdk that allows Moorse customers to write some simplified calls to the Moorse resources.',   # Give a short description about your library
   author = 'Moorse.io',                   # Type in your name
   author_email = 'douglas.alv.sousa@gmail.com',      # Type in your E-Mail
   url = 'https://moorse.io',   # Provide either the link to your github or to your website
